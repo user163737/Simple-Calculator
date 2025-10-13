@@ -1,1 +1,1 @@
-https://simple-calculator-ap-w0wr.bolt.host/
+https://simple-calculator-one-ivory.vercel.app/
